@@ -1,0 +1,11 @@
+body {
+  font-family: $fontFamily;
+  font-size: $mainSize;
+  font-weight: $mainWeight;
+  line-height: $bodyLine;
+}
+.container {
+  max-width: $container;
+  padding: 0px $paddingContainer;
+  margin: 0 auto;
+}
